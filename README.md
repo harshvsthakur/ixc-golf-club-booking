@@ -1,4 +1,4 @@
-# ixc-golf-club-booking
+# Chandigarh Golf Club Slot Booking Script
 Auto booking of slot for golf club booking
 
 Problem : The slots were getting quickly filled up.
